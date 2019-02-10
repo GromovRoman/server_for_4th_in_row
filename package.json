@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "startSever": "nodemon index.js"
+    "startServer": "nodemon index.js"
   },
   "dependencies": {
     "axios": "^0.18.0",
